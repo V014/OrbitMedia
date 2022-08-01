@@ -1,0 +1,46 @@
+body {
+   font-family: sans-serif;
+   background-color: #222222;
+   }
+
+.breadcrumb {
+	background-color: #222222;
+	color: #d9bd5c;
+}
+
+.thmbhead {
+	font-size: 16px;
+}
+
+img {
+	width: 100%;
+    height: auto;
+}
+
+h1, em {
+	color: #d9bd5c;
+}
+
+h4 {
+	text-align: center;
+	color: #d9bd5c;
+}
+
+p {
+	text-align: left;
+    color: #fff;
+}
+
+.captiontext {
+	text-align: center;
+	color: #3a3a3a;
+}
+.shirt {
+	color: #3a3a3a;
+}
+
+footer {
+	padding-top: 20px;
+	color: #898989;
+}
+
